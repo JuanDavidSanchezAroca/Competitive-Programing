@@ -1,7 +1,7 @@
 /*
 * Codeforces 559B
 * Equivalent Strings
-* Accepted
+*  Accepted
 */
 #include <bits/stdc++.h>
 using namespace std;
