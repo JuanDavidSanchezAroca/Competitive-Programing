@@ -25,7 +25,7 @@ int LCSubStr(string a,string b){
  			}
  		}
  	}
- 	return res;
+ return res;
 }
 
 
